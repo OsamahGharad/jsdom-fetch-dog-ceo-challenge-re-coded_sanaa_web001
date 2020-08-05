@@ -38,4 +38,3 @@ function displayBreeds(breeds){
 function showBreed(breed){
   return `<li>${breed}</li>`
 }
-
